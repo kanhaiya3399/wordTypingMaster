@@ -3,5 +3,5 @@ This project will help you to understand how a basic WORD_TYPING game in javascr
 you enough understanding that how javascript work behind the scene in the basic WORD_TYPING game. With the help of this repository you can 
 cerate a better WORD_TYPING game website or mobile app.
 
-PREREQUESIT FOR THIS REPOSITORY
-1. Basic HTML, Css, Javascript and AOI handling.
+PREREQUISITS FOR THIS REPOSITORY
+1. Basic HTML, Css, Javascript and API handling.
